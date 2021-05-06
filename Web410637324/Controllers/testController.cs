@@ -12,6 +12,12 @@ namespace Web410637324.Controllers
         public ActionResult Index()
         {
             return View();
+
+        }
+        public ActionResult HW01()
+        {
+            return View();
+
         }
     }
 }
